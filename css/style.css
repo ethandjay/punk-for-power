@@ -65,19 +65,22 @@ a, a:link, a:hover, a:visited, a:active {
 	width: 100%;
 }
 
+.inner-logo {
+	padding: 25px;
+}
+
 .god {
 	display: block;
-	width: 35%;
+	width: 30%;
 	margin: 0 auto;
-	margin-top: -15%;
-	padding: 25px;
+	margin-top: -10%;
 }
 
 .info {
 	text-align: center;
 	font-family: OldLondon;
 	font-size: 3.2vmax;
-	font-size: 5vmin;
+	font-size: 4vmin;
 	color: #FFFFFF;
 	margin: 0 auto;
 	margin-top: 2%;
