@@ -70,6 +70,7 @@ a, a:link, a:hover, a:visited, a:active {
 	width: 35%;
 	margin: 0 auto;
 	margin-top: -15%;
+	padding: 25px;
 }
 
 .info {
